@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anu-214
+- 👋 Hi, My name is Anugrah Seputra
 - 👀 I’m interested in becoming a Data Scientist
 - 🌱 I’m currently learning SQL, Python, Power BI, and Pandas
 - 💼  I’m open to collaborate or contribute to beginner-friendly data science projects
